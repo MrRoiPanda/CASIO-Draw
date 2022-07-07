@@ -4,9 +4,9 @@
 
 # How to use
 
-- With your Casio soft import in your Casio
+- With your Casio soft import files in your Casio
 - Go to Program
-- Run
+- Run it
 - Enjoy
 
 # Images
